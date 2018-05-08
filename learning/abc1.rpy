@@ -25,8 +25,7 @@ label start:
 
     "A" 'is for ...'
     show apple 1 at truecenter
-    with dissolve
-    pause
+    pause 1
     "A" 'is for Apple'
 
     hide apple
@@ -34,15 +33,15 @@ label start:
     "B" 'is for ...'
     show ball 1 at truecenter
     with dissolve
-    pause
+    pause 2
     "B" 'is for Ball'
 
     hide ball
 
     "C" 'is for ...'
     show cat 1 at truecenter
-    with dissolve
-    pause
+    with fade
+    pause 3
     "C" 'is for Cat'
 
     hide cat
