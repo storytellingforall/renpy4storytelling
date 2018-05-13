@@ -3,6 +3,9 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
+define gui.text_size = 190
+#define gui.text_box_height = 1000
+
 #define narrator = nvl_narrator
 #define menu = nvl_menu
 
