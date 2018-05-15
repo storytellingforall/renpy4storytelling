@@ -1,4 +1,4 @@
-# The script of the game goes in this file.
+﻿# The script of the game goes in this file.
 
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
@@ -46,62 +46,8 @@ label start:
         "Pre-K - Sight Word List 4":
             jump PreKWL4
 
-    label PreKWL1:
-        "and"
-        "for"
-        "a"
-        "can"
-        "make"
-        "me"
-        "my"
-        "not"
-        "red"
-        "run"
-        #nvl clear 
-        jump start
-    
-    label PreKWL2:
-        "here"
-        "little"
-        "it"
-        "jump"
-        "is"
-        "funny"
-        "in"
-        "go"
-        "help"
-        "I" 
-        #nvl clear
-        jump start
-
-    label PreKWL3:
-        "blue"
-        "come"
-        "big"
-        "down"
-        "away"
-        "find"
-        "play"
-        "look"
-        "one"
-        "said"
-        #nvl clear
-        jump start
-
-    label PreKWL4:
-        "see"
-        "the"
-        "three"
-        "to"
-        "two"
-        "up"
-        "we"
-        "where"
-        "yellow"
-        "you"
-        #nvl clear
-        jump start
+        "Kindergarten - Sight Word List 1":
+            jump KWL1
 
     # This ends the game.
-
     return
