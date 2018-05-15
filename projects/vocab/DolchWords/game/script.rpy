@@ -1,4 +1,6 @@
-﻿# The script of the game goes in this file.
+#@+leo-ver=5-thin
+#@+node:satishgoda.20180515205824.2: * @file script.rpy
+# The script of the game goes in this file.
 
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
@@ -36,7 +38,7 @@ label start:
     menu:
         "Pre-K - Sight Word List 1":
             jump PreKWL1
-           
+
         "Pre-K - Sight Word List 2":
             jump PreKWL2
 
@@ -49,5 +51,17 @@ label start:
         "Kindergarten - Sight Word List 1":
             jump KWL1
 
+        "Kindergarten - Sight Word List 2":
+            jump KWL2
+
+        "Kindergarten - Sight Word List 3":
+            jump KWL3
+
+        "Kindergarten - Sight Word List 4":
+            jump KWL4
+
+        "Kindergarten - Sight Word List 5":
+            jump KWL5
     # This ends the game.
     return
+#@-leo

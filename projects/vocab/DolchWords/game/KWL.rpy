@@ -12,4 +12,58 @@ label KWL1:
     "under"
     "into"
     jump start
+
+label KWL2:
+    "soon"
+    "will"
+    "brown"
+    "like"
+    "have"
+    "came"
+    "pretty"
+    "well"
+    "are"
+    "too"
+    jump start
+
+label KWL3:
+    "yes"
+    "black"
+    "did"
+    "must"
+    "want"
+    "there"
+    "that"
+    "at"
+    "white"
+    "was"
+    jump start
+
+label KWL4:
+    "be"
+    "she"
+    "what"
+    "ran"
+    "went"
+    "no"
+    "our"
+    "get"
+    "eat"
+    "this"
+    "he"
+    jump start
+
+label KWL5:
+    "with"
+    "on"
+    "say"
+    "so"
+    "do"
+    "but"
+    "new"
+    "ride"
+    "who"
+    "am"
+    "out"
+    jump start
 #@-leo
