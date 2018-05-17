@@ -29,9 +29,17 @@ label start:
     #@+node:satishgoda.20180516220557.1: ** <<dialogue>>
     # These display lines of dialogue.
 
+    #@+<<part 1>>
+    #@+node:satishgoda.20180517150118.1: *3* <<part 1>>
     t "Are you ready to learn about the story of Numbers?"
-
     s "Yes, I am ready."
+
+    s "Teacher, how were numbers born?"
+    t "The origin of numbers is cloaked in mystery."
+    t "As civilizations advanced, numbers advanced with it."
+    t "Civilizations could not have advanced without numbers."
+    s "Wow, so interesting. I want to learn more about numbers."
+    #@-<<part 1>>
     #@-<<dialogue>>
 
     # This ends the game.
